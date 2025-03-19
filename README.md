@@ -1,1 +1,1 @@
-# Polynomial-Addition
+# Polynomial-Addition code using C
